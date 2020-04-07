@@ -1,0 +1,11 @@
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Astor\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
